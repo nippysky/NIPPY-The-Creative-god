@@ -407,4 +407,9 @@ hr {
   .assets-text {
     display: none;
   }
+
+  .nav-item {
+    display: block;
+    padding: 1.4rem;
+  }
 }
